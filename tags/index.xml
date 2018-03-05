@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on moo8nya&#39;s note</title>
+    <link>https://moo8nya.github.io/tags/</link>
+    <description>Recent content in Tags on moo8nya&#39;s note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 05 Mar 2018 13:31:19 +0900</lastBuildDate>
+    
+	<atom:link href="https://moo8nya.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BeautifulSoup4</title>
+      <link>https://moo8nya.github.io/tags/beautifulsoup4/</link>
+      <pubDate>Mon, 05 Mar 2018 13:31:19 +0900</pubDate>
+      
+      <guid>https://moo8nya.github.io/tags/beautifulsoup4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://moo8nya.github.io/tags/python/</link>
+      <pubDate>Mon, 05 Mar 2018 13:31:19 +0900</pubDate>
+      
+      <guid>https://moo8nya.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>スクレイピング</title>
+      <link>https://moo8nya.github.io/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Mon, 05 Mar 2018 13:31:19 +0900</pubDate>
+      
+      <guid>https://moo8nya.github.io/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

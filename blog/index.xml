@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on moo8nya&#39;s note</title>
+    <link>https://moo8nya.github.io/blog/</link>
+    <description>Recent content in Blog on moo8nya&#39;s note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 05 Mar 2018 13:31:19 +0900</lastBuildDate>
+    
+	<atom:link href="https://moo8nya.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BeautifulSoup4でスクレイピング</title>
+      <link>https://moo8nya.github.io/blog/20180305_1/</link>
+      <pubDate>Mon, 05 Mar 2018 13:31:19 +0900</pubDate>
+      
+      <guid>https://moo8nya.github.io/blog/20180305_1/</guid>
+      <description>この頃、分析やマーケティングなど売上を伸ばす活動が出来るようになりたいなと思い動き始めています。 前々からPythonを使ったデータ分析に関心があったので、最近はメジャーどころのモジュールを喜々として触っているところです。
+今回は BeautifulSoup4 を使ってシンプルなスクレイピング用コードを作成してみました。
+ 導入手順メモ: https://github.com/moo8nya/test_scraping/tree/master/test_beautifulSoup4 上記以外にもページングがある画面のスクレイピング処理などいろいろ書いて試してみたのですが、基本的に動作が軽く扱いやすいなあという印象を受けました。コードもフロントエンドっぽく書けて誰でもとっつきやすそう。今後使っていくモジュール候補の１つにしようと思います。</description>
+    </item>
+    
+  </channel>
+</rss>

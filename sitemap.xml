@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://moo8nya.github.io/blog/20180305_1/</loc>
+    <lastmod>2018-03-05T13:31:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://moo8nya.github.io/about/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://moo8nya.github.io/tags/beautifulsoup4/</loc>
+    <lastmod>2018-03-05T13:31:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://moo8nya.github.io/blog/</loc>
+    <lastmod>2018-03-05T13:31:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://moo8nya.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://moo8nya.github.io/tags/python/</loc>
+    <lastmod>2018-03-05T13:31:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://moo8nya.github.io/tags/</loc>
+    <lastmod>2018-03-05T13:31:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://moo8nya.github.io/categories/web/</loc>
+    <lastmod>2018-03-05T13:31:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://moo8nya.github.io/</loc>
+    <lastmod>2018-03-05T13:31:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://moo8nya.github.io/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</loc>
+    <lastmod>2018-03-05T13:31:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
