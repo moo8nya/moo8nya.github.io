@@ -21,8 +21,8 @@
         "accountablePerson" : "",
         "copyrightHolder" : "",
         "copyrightYear" : "2018",
-        "datePublished": "2018-03-05 13:31:19 &#43;0900 JST",
-        "dateModified" : "2018-03-05 13:31:19 &#43;0900 JST",
+        "datePublished": "2018-03-08 11:38:36 &#43;0900 JST",
+        "dateModified" : "2018-03-08 11:38:36 &#43;0900 JST",
         "url" : "https://moo8nya.github.io/",
         "wordCount" : "0",
         "keywords" : [ "Blog" ]
@@ -73,7 +73,7 @@
 
 
 
-<meta property="og:updated_time" content="2018-03-05T13:31:19&#43;09:00"/>
+<meta property="og:updated_time" content="2018-03-08T11:38:36&#43;09:00"/>
 
 
 
@@ -252,6 +252,18 @@
                 
                         <article class="mini-post">
                             <header>
+                                <h3><a href="https://moo8nya.github.io/blog/20180308_1/">スプレッドシートでSQL</a></h3>
+                                
+                                <time class="published" datetime=
+                                    '2018-03-08'>
+                                    March 8, 2018</time>
+                            </header>
+                            
+
+                        </article>
+                
+                        <article class="mini-post">
+                            <header>
                                 <h3><a href="https://moo8nya.github.io/blog/20180305_1/">BeautifulSoup4でスクレイピング</a></h3>
                                 
                                 <time class="published" datetime=
@@ -278,7 +290,7 @@
   <header>
     <div class="title">
         
-            <h2><a href="https://moo8nya.github.io/blog/20180305_1/">BeautifulSoup4でスクレイピング</a></h2>
+            <h2><a href="https://moo8nya.github.io/blog/20180308_1/">スプレッドシートでSQL</a></h2>
         
         
     </div>
@@ -286,8 +298,8 @@
         
 
         <time class="published"
-            datetime='2018-03-05'>
-            March 5, 2018</time>
+            datetime='2018-03-08'>
+            March 8, 2018</time>
         <span class="author">moo8nya</span>
         
             <p>1 minute read</p>
@@ -302,34 +314,43 @@
   
 
   <div id="content">
-    <p>この頃、分析やマーケティングなど売上を伸ばす活動が出来るようになりたいなと思い動き始めています。
-前々からPythonを使ったデータ分析に関心があったので、最近はメジャーどころのモジュールを喜々として触っているところです。</p>
+    <p>最近、スプレッドシートでSQLライクな関数があることを知り驚きました。</p>
 
-<p>今回は BeautifulSoup4 を使ってシンプルなスクレイピング用コードを作成してみました。</p>
-
-<script src="https://gist.github.com/moo8nya/81816fcc5a4bb58c2dd0372269c98f86.js"></script>
-
-<p>BeautifulSoup4: 
+<p>QUERY - ドキュメント エディタ ヘルプ: 
 
     
         
     
 
-    <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target='target'>https://www.crummy.com/software/BeautifulSoup/bs4/doc/</a>
+    <a href="https://support.google.com/docs/answer/3093343?hl=ja" target='target'>https://support.google.com/docs/answer/3093343?hl=ja</a>
 
 </p>
 
-<p>導入手順メモ: 
+<p>↓クエリの詳細仕様はこちら</p>
+
+<p>Query Language Reference: 
 
     
         
     
 
-    <a href="https://github.com/moo8nya/test_scraping/tree/master/test_beautifulSoup4" target='target'>https://github.com/moo8nya/test_scraping/tree/master/test_beautifulSoup4</a>
+    <a href="https://developers.google.com/chart/interactive/docs/querylanguage" target='target'>https://developers.google.com/chart/interactive/docs/querylanguage</a>
 
 </p>
 
-<p>上記以外にもページングがある画面のスクレイピング処理などいろいろ書いて試してみたのですが、基本的に動作が軽く扱いやすいなあという印象を受けました。コードもフロントエンドっぽく書けて誰でもとっつきやすそう。今後使っていくモジュール候補の１つにしようと思います。</p>
+<p>スプレッドシートを操作していて、ちょっとデータを結合したり抽出したりしたい場面に出くわし、</p>
+
+<ul>
+<li>GAS（Google Apps Script）をいちいちこのために書くのも違うよなあ</li>
+<li>ドキュメントは非エンジニアの人が使うシーンが多いから、事務っぽく使える何かがあるはずや</li>
+</ul>
+
+<p>と思ったのがきっかけてググったところ、わりとすぐ上記ドキュメントに辿り着きビックリしました。</p>
+
+<p>（・・・SQLを使わない人はどうしているんだろう・・・もっと一撃必殺な関数があるのかな）</p>
+
+<p>シンプルなシートなら上記Query関数で事足りそうです。
+ただ、例えば週次の会議で使うなどプレゼンを意識するなら、GASで画面作ってシート読み込み＆グラフ生成するなどデータを可視化するアプリを作ってしまうほうが誰でも扱えるようになってイイなと書きながら思いました。</p>
 
   </div>
 
@@ -357,13 +378,13 @@
                 <i class="fa fa-tags"></i>
                 
                 
-                <li><a class="article-category-link" href="https://moo8nya.github.io/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0">スクレイピング</a></li>
+                <li><a class="article-category-link" href="https://moo8nya.github.io/tags/%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88">スプレッドシート</a></li>
                 
                 
-                <li><a class="article-category-link" href="https://moo8nya.github.io/tags/python">Python</a></li>
+                <li><a class="article-category-link" href="https://moo8nya.github.io/tags/sql">SQL</a></li>
                 
                 
-                <li><a class="article-category-link" href="https://moo8nya.github.io/tags/beautifulsoup4">BeautifulSoup4</a></li>
+                <li><a class="article-category-link" href="https://moo8nya.github.io/tags/googleappsscript">GoogleAppsScript</a></li>
                 
             
         
@@ -377,6 +398,9 @@
 
 
 <ul class="actions pagination">
+    
+        <li><a href="https://moo8nya.github.io/blog/20180305_1/"
+                class="button big previous">BeautifulSoup4でスクレイピング</a></li>
     
 
     
@@ -459,6 +483,20 @@
           <article class="mini-post">
             <header>
               <h3>
+                <a href="https://moo8nya.github.io/blog/20180308_1/">スプレッドシートでSQL</a>
+              </h3>
+              
+              <time class="published" datetime='2018-03-08'>
+                March 8, 2018
+              </time>
+            </header>
+            
+
+          </article>
+        
+          <article class="mini-post">
+            <header>
+              <h3>
                 <a href="https://moo8nya.github.io/blog/20180305_1/">BeautifulSoup4でスクレイピング</a>
               </h3>
               
@@ -497,7 +535,7 @@
             <header>
               
                 <a href="https://moo8nya.github.io/categories/web/">WEB</a>
-                <span style="float:right;">1</span>
+                <span style="float:right;">2</span>
               
             </header>
           </article>

@@ -6,10 +6,24 @@
     <description>Recent content on moo8nya&#39;s note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Mar 2018 13:31:19 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Mar 2018 11:38:36 +0900</lastBuildDate>
     
 	<atom:link href="https://moo8nya.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>スプレッドシートでSQL</title>
+      <link>https://moo8nya.github.io/blog/20180308_1/</link>
+      <pubDate>Thu, 08 Mar 2018 11:38:36 +0900</pubDate>
+      
+      <guid>https://moo8nya.github.io/blog/20180308_1/</guid>
+      <description>最近、スプレッドシートでSQLライクな関数があることを知り驚きました。
+QUERY - ドキュメント エディタ ヘルプ: https://support.google.com/docs/answer/3093343?hl=ja ↓クエリの詳細仕様はこちら
+Query Language Reference: https://developers.google.com/chart/interactive/docs/querylanguage スプレッドシートを操作していて、ちょっとデータを結合したり抽出したりしたい場面に出くわし、
+ GAS（Google Apps Script）をいちいちこのために書くのも違うよなあ ドキュメントは非エンジニアの人が使うシーンが多いから、事務っぽく使える何かがあるはずや  と思ったのがきっかけてググったところ、わりとすぐ上記ドキュメントに辿り着きビックリしました。
+（・・・SQLを使わない人はどうしているんだろう・・・もっと一撃必殺な関数があるのかな）
+シンプルなシートなら上記Query関数で事足りそうです。 ただ、例えば週次の会議で使うなどプレゼンを意識するなら、GASで画面作ってシート読み込み＆グラフ生成するなどデータを可視化するアプリを作ってしまうほうが誰でも扱えるようになってイイなと書きながら思いました。</description>
+    </item>
     
     <item>
       <title>BeautifulSoup4でスクレイピング</title>
